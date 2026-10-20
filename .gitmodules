@@ -1,3 +1,6 @@
 [submodule "lib/tinclib"]
 	path = lib/tinclib
 	url = https://github.com/gavinhsmith/tinclib.git
+[submodule "lib/titrmlib"]
+	path = lib/titrmlib
+	url = https://github.com/gavinhsmith/titrmlib.git
